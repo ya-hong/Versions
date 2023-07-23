@@ -1,12 +1,12 @@
 {
     "homepage": "https://apps.kde.org/dolphin/",
-    "version": "1043",
+    "version": "1057",
     "description": "A file manager developed by KDE that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more.",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://binary-factory.kde.org/job/Dolphin_Nightly_win64/lastSuccessfulBuild/artifact/dolphin-master-1043-windows-cl-msvc2019-x86_64.7z",
-            "hash": "496b43e31d445b48575a88a8f5c62e9ee6b646ed2792c202b04294679ac34163"
+            "url": "https://binary-factory.kde.org/job/Dolphin_Nightly_win64/lastSuccessfulBuild/artifact/dolphin-master-1057-windows-cl-msvc2019-x86_64.7z",
+            "hash": "6f73b4e15d274fe7e40ae3820c0313b0b1170463f36ea6e1fe9740085cc4d4fe"
         }
     },
     "bin": "bin\\dolphin.exe",
